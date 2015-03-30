@@ -17,8 +17,6 @@ https://github.com/vn38minhtran/generator-react-flux
 
 https://github.com/kriasoft/react-starter-kit
 
-https://github.com/taiansu/generator-rf
-
 https://github.com/tameraydin/generator-flux-react-app
 
 
