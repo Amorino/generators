@@ -19,6 +19,7 @@ https://github.com/kriasoft/react-starter-kit
 
 https://github.com/tameraydin/generator-flux-react-app
 
+https://github.com/apzentral/generator-react-flux-router-boilerplate
 
 # Backbone - React
 
