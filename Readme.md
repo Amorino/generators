@@ -25,6 +25,8 @@ https://github.com/apzentral/generator-react-flux-router-boilerplate
 
 https://github.com/dqdinh/generator-mariongulpreactify
 
+https://github.com/bhtz/microscope-backbone-react
+
 # Koa - React 
 
 https://github.com/dozoisch/koa-react-full-example
